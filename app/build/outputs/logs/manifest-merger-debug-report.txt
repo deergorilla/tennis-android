@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.github.florent37:materialtextfield:1.0.7] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\materialtextfield-1.0.7.aar\4cfafda0eb7d2a519d911abb89043d07\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0ba90f1afb9ffc56bed9fabb7c67f4e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\209f9ba849cf7180fa0788ad382b2855\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\620457c231a262905b1a1f6e45e71ced\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\621d477685e619a9c9e6ceccf3d0f99e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\695438f106a505277215814a056fdff2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a22d87c59fd8066b8a1d5d6ed72f2809\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\163de450433a2a167bbc22ce5892da01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\092865bb5dea31f136c5dfe29fd8f05a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5b968d6b341f95c57451898bec8b3e93\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1cabf570a1c83e55cdba769fbaaac82e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f600ad2cb30a12c6f903dd4f79cec641\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\052829c32b30382083aec3ed349ed42c\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:3:5-55
+		INJECTED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\209f9ba849cf7180fa0788ad382b2855\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\209f9ba849cf7180fa0788ad382b2855\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.keigonakajima.myapplication3.MainActivity
+ADDED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.keigonakajima.myapplication3.SecondActivity
+ADDED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml:19:19-49
+uses-sdk
+INJECTED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml
+MERGED from [com.github.florent37:materialtextfield:1.0.7] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\materialtextfield-1.0.7.aar\4cfafda0eb7d2a519d911abb89043d07\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.florent37:materialtextfield:1.0.7] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\materialtextfield-1.0.7.aar\4cfafda0eb7d2a519d911abb89043d07\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0ba90f1afb9ffc56bed9fabb7c67f4e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0ba90f1afb9ffc56bed9fabb7c67f4e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\209f9ba849cf7180fa0788ad382b2855\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\209f9ba849cf7180fa0788ad382b2855\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\620457c231a262905b1a1f6e45e71ced\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\620457c231a262905b1a1f6e45e71ced\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\621d477685e619a9c9e6ceccf3d0f99e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\621d477685e619a9c9e6ceccf3d0f99e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\695438f106a505277215814a056fdff2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\695438f106a505277215814a056fdff2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a22d87c59fd8066b8a1d5d6ed72f2809\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a22d87c59fd8066b8a1d5d6ed72f2809\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\163de450433a2a167bbc22ce5892da01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\163de450433a2a167bbc22ce5892da01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\092865bb5dea31f136c5dfe29fd8f05a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\092865bb5dea31f136c5dfe29fd8f05a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5b968d6b341f95c57451898bec8b3e93\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5b968d6b341f95c57451898bec8b3e93\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1cabf570a1c83e55cdba769fbaaac82e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1cabf570a1c83e55cdba769fbaaac82e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f600ad2cb30a12c6f903dd4f79cec641\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f600ad2cb30a12c6f903dd4f79cec641\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\052829c32b30382083aec3ed349ed42c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Keigo Nakajima\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\052829c32b30382083aec3ed349ed42c\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Keigo Nakajima\AndroidStudioProjects\tennis-android\app\src\main\AndroidManifest.xml
